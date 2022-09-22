@@ -13,114 +13,107 @@ Available for most operating systems, macOS, Windows, Linux/Unix.
 ## Exercises
 ### Get Started
 Check which version of Git (if any) is installed
-```console
+```bash
  git --version
 ```
 
 Initialize Git on the current folder
-```console
+```bash
  git init
 ```
 
-Set the user name for the current repository to "user-test"
-```console
- git config user.name "user-test"
+Set the user name for the current repository to "user-dummy"
+```bash
+ git config user.name "user-dummy"
 ```
 
-Set the email for the current repository to "user@test.com"
-```console
- git config user.email "user@test.com"
+Set the email for the current repository to "user@dummy.com"
+```bash
+ git config user.email "user@dummy.com"
 ```
 
 Review user name and email configured
-```console
+```bash
  git config --list
 ```
 
 ### Staging environment
 Add file.txt to the Staging Environment
-```console
+```bash
+ # Additional command
+ # git add .
  git add file.txt
 ```
 
 ### New files 
 Check the status of the Git
-```console
+```bash
  git status
 ```
 
 Check the compact version of the status for repository
-```console
+```bash
  git status --short
 ```
 
 ### Commit 
 Commit the changes to the current repository with the message "First commit"
-```console
+```bash
+# Additional command
+# git commit -am "Add & Commit in one step"
  git commit -m "First commit"
 ```
 
 View the history of commits for the repository
-```console
+```bash
  git log
 ```
 
 Review the history of commits for the repository in one line
-```console
+```bash
  git log --oneline --graph --decorate
 ```
 
 ### Branch
 Create a new branch called "my-new-branch"
-```console
+```bash
  git branch my-new-branch
 ```
 
 List the existing branches
-```console
+```bash
+ # The expected branches are "main" / "my-new-branch"
  git branch
 ```
 
 Move to the "my-new-branch" branch
-```console
+```bash
  git checkout my-new-branch
 ```
 
 ### Merge
-Merge the "my-new-branch" branch with the current branch
-```console
+Merge the "my-new-branch" branch with the current branch (main)
+```bash
+ # Ensure you stay in the main branch 
  git merge my-new-branch
 ```
 
 Remove the "my-new-branch" branch from the local repository
-```console
+```bash
  git branch -d my-new-branch
 ```
 
 ### Help
 Show the possible options for the status command in command line
-```console
+```bash
  git status -help
 ```
 
 Show all git possible commands
-```console
+```bash
  git help --all
 ```
 
-## Tips and Tricks
-The cheat sheet features the most important and commonly used Git commands for easy reference.
-
-![Picture_02](./cheat_sheet.png)
-
-- [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
-- [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
-- [Bitbucket](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-
-Also, great content and self-study:
-
-- [What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
-- [Learning git branching](https://learngitbranching.js.org/)
-- [Playlist on YouTube](https://youtube.com/playlist?list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU)
+[Go to additional Resources](./additional_resources.md)
 
 <!-- It is a secret, send me coffee please. Oswald TC - May 10th 2022 -->
