@@ -1,5 +1,5 @@
 # Additional Resources
-List of useful accurate resources.
+List of accurate resources.
 
 ## Tips and Tricks
 The cheat sheet features the most important and commonly used Git commands for easy reference.
@@ -13,7 +13,7 @@ The cheat sheet features the most important and commonly used Git commands for e
 ## Self-learning
 Also, great content:
 
-- What is Git? A Beginner's Guide to Git Version Control [(article)](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+- What is Git? A Beginner's Guide to Git Version Control [article](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
 - Learning git branching [intermediate level](https://learngitbranching.js.org/)
 - [Playlist on YouTube](https://youtube.com/playlist?list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU) in Spanish
 
