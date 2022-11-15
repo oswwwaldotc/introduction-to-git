@@ -1,4 +1,4 @@
-# Additional Resources
+# Additional Resources + Future work
 List of accurate resources.
 
 ## Tips and Tricks
@@ -9,6 +9,15 @@ The cheat sheet features the most important and commonly used Git commands for e
 - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Bitbucket](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+## Future Work
+
+* Create a GitHub Account
+* Fork a remote repository
+* Clone a remote repository
+* Pull/Push a remote repository
+* Send Pull Request 
+* Branch Merge
 
 ## Self-learning
 Also, great content:
@@ -23,6 +32,7 @@ Also, great content:
 - [GitHub awesome list](https://github.com/tiimgreen/github-cheat-sheet)
 - [.gitignore templates](https://github.com/github/gitignore)
 
-[Go to Home](./README.md)
+<!-- https://www.w3schools.com/git/git_remote_getstarted.asp -->
+<!-- It is a secret. Oswald TC - Oct 14th 2022 -->
 
-<!-- It is a secret. Oswald TC - Sept 21th 2022 -->
+[Go to Home](./README.md)
