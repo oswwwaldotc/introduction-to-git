@@ -12,6 +12,8 @@ The cheat sheet features the most important and commonly used Git commands for e
 
 ## Future Work
 
+![Git Workflow](https://meralus.com/assets/img/blog-headers/git-workflow.png)
+
 * Create a GitHub Account
 * Fork a remote repository
 * Clone a remote repository
