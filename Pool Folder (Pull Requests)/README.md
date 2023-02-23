@@ -7,5 +7,7 @@ Intruction:  Add your name and GitHub profile as follows
 
 - [Oswaldo](https://github.com/dev-oswld)
 - [Fanny](https://github.com/Estefani-Tamez)
+- [Leslie](https://github.com/GitL3ess)
+- [Gabriel](https://github.com/JGVelez2)
 
 <!-- It is a secret line. Oswald TC - February 23th 2023 -->
