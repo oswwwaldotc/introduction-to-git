@@ -6,6 +6,7 @@ Intruction:  Add your name and GitHub profile as follows
 ```
 
 - [Oswaldo](https://github.com/dev-oswld)
+- [Edith](https://github.com/thide87)
 - [Brianda](https://github.com/BriandaViridiana)
 - [Dennys](https://github.com/DennysGa22)
 - [Oswaldo Galicia](https://github.com/OGP19912023)
