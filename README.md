@@ -7,8 +7,8 @@ This guide has the purpose of learning the basics of Git and practicing differen
 Available for most operating systems, macOS, Windows, Linux/Unix.
 
 - [Official download](https://git-scm.com/downloads)
-    - If you have [Windows](https://phoenixnap.com/kb/how-to-install-git-windows)
-    - Otherwise, you have [macOS or Linux](https://github.com/git-guides/install-git)
+    - If you have [Windows](https://phoenixnap.com/kb/how-to-install-git-windows).
+    - Otherwise, you have [macOS or Linux](https://github.com/git-guides/install-git).
 
 ## Exercises
 ### Get Started
