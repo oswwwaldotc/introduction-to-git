@@ -119,4 +119,6 @@ Show all git possible commands
 
 [Go to additional Resources](./additional_resources.md)
 
-<!-- It is a secret, send me coffee please. Oswald TC - May 10th 2022 -->
+[My friends, click here](./Pool%20Folder%20(Pull%20Requests)/README.md)
+
+<!-- It is a secret, send me coffee please. Oswald TC - Feb 26th 2023 -->
