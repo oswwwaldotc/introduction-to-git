@@ -1,6 +1,6 @@
 # exclude everything except directory foo/bar
 # Docs here (https://git-scm.com/docs/gitignore)
-/*
+#/*
 !/foo
 /foo/*
 !/foo/bar
