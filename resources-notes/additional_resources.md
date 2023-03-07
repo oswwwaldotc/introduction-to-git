@@ -4,7 +4,7 @@ List of accurate resources.
 ## Tips and Tricks
 The cheat sheet features the most important and commonly used Git commands for easy reference.
 
-![Picture_02](./cheat_sheet.png)
+![Picture_01](../images/cheat_sheet.png)
 
 - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
@@ -12,7 +12,7 @@ The cheat sheet features the most important and commonly used Git commands for e
 
 ## Future Work
 
-![Git Workflow](https://meralus.com/assets/img/blog-headers/git-workflow.png)
+![Git Workflow](../images/git-workflow.png)
 
 * Create a GitHub Account
 * Fork a remote repository
@@ -37,4 +37,4 @@ Also, great content:
 <!-- https://www.w3schools.com/git/git_remote_getstarted.asp -->
 <!-- It is a secret. Oswald TC - Oct 14th 2022 -->
 
-[Go to Home](./README.md)
+[Return to Home](../README.md)

@@ -1,7 +1,12 @@
-# Introduction to Git
-This guide has the purpose of learning the basics of Git and practicing different scenarios that will be shown below.
+# Introduction to Git & beyond
+This guide has the purpose of learning ~~the basics of~~ Git and practicing different scenarios that will be shown below.
 
-![Picture_01](./git.gif)
+![Picture_01](./images/git.gif)
+
+### Index
+1. [Additional resources](./resources-notes/additional_resources.md)
+2. [Git troubleshooting](./resources-notes/git_troubleshooting.md)
+3. [My friends (pull requests)](./Pool%20Folder%20(Pull%20Requests)/README.md)
 
 ## Installation
 Available for most operating systems, macOS, Windows, Linux/Unix.
@@ -116,9 +121,5 @@ Show all git possible commands
 ```console
  git help --all
 ```
-
-[Go to additional Resources](./additional_resources.md)
-
-[My friends, click here](./Pool%20Folder%20(Pull%20Requests)/README.md)
 
 <!-- It is a secret, send me coffee please. Oswald TC - Feb 26th 2023 -->

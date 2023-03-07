@@ -5,7 +5,9 @@ Intruction:  Add your name and GitHub profile as follows
  - [Your name here 😀](https://github.com)
 ```
 
-- [Oswaldo](https://github.com/dev-oswld)
+[Return to Home](../README.md)
+
+- [Oswaldo TC](https://github.com/dev-oswld)
 - [Edith](https://github.com/thide87)
 - [Brianda](https://github.com/BriandaViridiana)
 - [Dennys](https://github.com/DennysGa22)
