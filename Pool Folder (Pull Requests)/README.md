@@ -18,5 +18,6 @@ Intruction:  Add your name and GitHub profile as follows
 - [Mario](https://github.com/MArioAguilarGIT)
 - [RafaelH2](https://github.com/Rafaelh2023)
 - [Roberto](https://github.com/arevalorob)
+- [RosyMorales](https://github.com/risela82) 
 
 <!-- It is a secret line. Oswald TC - February 23th 2023 -->
