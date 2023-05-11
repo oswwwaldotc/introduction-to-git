@@ -1,4 +1,4 @@
-# Additional Resources + Future work
+# Additional Resources + Notes
 List of accurate resources.
 
 ## Tips and Tricks
@@ -10,16 +10,11 @@ The cheat sheet features the most important and commonly used Git commands for e
 - [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Bitbucket](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-## Future Work
+## Notes
 
 ![Git Workflow](../images/git-workflow.png)
 
-* Create a GitHub Account
-* Fork a remote repository
-* Clone a remote repository
-* Pull/Push a remote repository
-* Send Pull Request 
-* Branch Merge
+ * [Go to general guide](../guides/general-and-more.md)
 
 ## Self-learning
 Also, great content:
