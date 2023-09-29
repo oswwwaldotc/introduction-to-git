@@ -6,6 +6,7 @@ The cheat sheet features the most important and commonly used Git commands for e
 
 ![Picture_01](../images/cheat_sheet.png)
 
+- [Git Command Explorer](https://gitexplorer.com/): Find the right commands you need without digging through the web.
 - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Bitbucket](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
